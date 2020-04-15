@@ -2,7 +2,7 @@
 stakeholder-grupo3 created by GitHub Classroom
 
 # Integrantes:
--  - Diaz Garcia, Benjamin Paolo 
+- 201810142 Diaz Garcia, Benjamin Paolo 
 -  - Cupe Guerrero, Carlos Daniel
 - 201810010 - Lazo Pampa, David Alejandro 
 -  - Morales Alcalde, Piero Angelo
