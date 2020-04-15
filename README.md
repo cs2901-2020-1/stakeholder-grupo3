@@ -1,4 +1,4 @@
-# stakeholder-grupo3
+# Stakeholder Grupo 3
 A project to build an open source spreadsheet
 
 # Integrantes:
